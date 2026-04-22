@@ -69,17 +69,6 @@ Full-stack Ruby on Rails Developer with **4+ years of experience** building scal
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔥 [SanMaHot](https://github.com/caoviethoang/sanmahot)
-> Coupon & deal aggregator platform for Vietnamese e-commerce
-
-A full-stack platform that automatically aggregates discount codes and deals from multiple platforms (Shopee, Tiki, Lazada) via the AccessTrade affiliate API. Features automated data crawling, a CI/CD pipeline, and a modern React frontend.
-
-`Ruby on Rails` `React` `PostgreSQL` `Docker` `GitHub Actions` `AccessTrade API`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
