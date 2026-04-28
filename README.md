@@ -7,7 +7,7 @@
     <a href="mailto:hoangcv17@gmail.com">
       <img src="https://img.shields.io/badge/Email-hoangcv17%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://linkedin.com/in/caoviethoang">
+    <a href="[https://linkedin.com/in/caoviethoang](https://www.linkedin.com/in/hoang-cao-viet-06a747223/)">
       <img src="https://img.shields.io/badge/LinkedIn-caoviethoang-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/caoviethoang">
