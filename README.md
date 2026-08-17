@@ -4,9 +4,7 @@
 
 Ha Noi, Vietnam
 
-## Contact
-
- [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com)
+**Contact** [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com)
 ---
 
 ## About Me
