@@ -1,21 +1,19 @@
 # Hoang Cao Viet
 
-**Senior Full-Stack Developer** | Ruby on Rails & React Specialist
+**Senior Full-Stack Developer** · Ruby on Rails & React
 
-Ha Noi, Vietnam
+Ha Noi, Vietnam · [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com)
 
-**Contact** [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com)
 ---
 
 ## About Me
 
-Full-stack Ruby on Rails Developer with **4+ years of experience** building scalable web applications. Expert in systems architecture, API design, and performance optimization.
+Full-stack developer with **4+ years of experience** building scalable web applications.
 
-## Core Expertise
+I specialize in **Ruby on Rails, React, and TypeScript**, with a focus on system architecture, API design, performance, and writing clean, maintainable code.
 
-- **Backend:** Ruby on Rails, PostgreSQL, MySQL, GraphQL, REST API
-- **Frontend:** React, TypeScript, TailwindCSS, Vue.js
-- **DevOps:** AWS (EC2, S3, RDS), Docker, GitHub Actions
-- **Testing:** RSpec, Capybara, Selenium
+## Tech Stack
 
----
+**Ruby on Rails · React · TypeScript · PostgreSQL · GraphQL · AWS · Docker**
+
+Also experienced with **MySQL, REST APIs, Vue.js, TailwindCSS, GitHub Actions, RSpec, Capybara, and Selenium.**
