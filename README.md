@@ -4,8 +4,6 @@
 
 Ha Noi, Vietnam
 
-[Email](mailto:hoangcv17@gmail.com) · [LinkedIn](https://linkedin.com/in/caoviethoang)
-
 ---
 
 ## About Me
