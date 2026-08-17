@@ -8,7 +8,7 @@ Ha Noi, Vietnam · [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com)
 
 ## About Me
 
-**4+ years of experience** building scalable web applications.
+**4+ years of experience** building and maintaining production web applications.
 
 I specialize in **Ruby on Rails, React, and TypeScript**, with a focus on system architecture, API design, performance, and writing clean, maintainable code.
 
