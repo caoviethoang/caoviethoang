@@ -1,19 +1,24 @@
-# Hoang Cao Viet
+# Hoàng Cao Việt
 
-**Senior Full-Stack Developer** · Ruby on Rails & React
+**Full-Stack Developer**
 
-Ha Noi, Vietnam · [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com)
+Hà Nội, Việt Nam · [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hoangcaoviet)
 
 ---
 
-## About Me
+## 💼 Professional Background
 
-**4+ years of experience** building and maintaining production web applications.
+**Full-Stack Developer** with 4+ years building production web applications for international clients.
 
-I specialize in **Ruby on Rails, React, and TypeScript**, with a focus on system architecture, API design, performance, and writing clean, maintainable code.
+**Zinza Technology** - Full-Stack Developer *(Dec 2021 - present)*, outsourced to:
 
-## Tech Stack
+- **Fieldguide** - AI-powered Audit Platform *(Aug 2025 - present, remote)*
+- **Mitsumitsu** - Real-time Platform Development *(Jun 2023 - present)*
+- **Red Plank Software** - Lab Management System *(May 2023 - Aug 2025)*
+- **SOUNDRAW** - Music generator *(Jan 2022 - Jun 2023)*
 
-**Ruby on Rails · React · TypeScript · PostgreSQL · GraphQL · AWS · Docker**
+**Skills:** Ruby on Rails · React · TypeScript · Vue.js · PostgreSQL · GraphQL · AWS · Docker
 
-Also experienced with **MySQL, REST APIs, Vue.js, TailwindCSS, CI/CD, and automated testing.**
+## 🚀 Featured Projects
+
+- **[punchbook](https://github.com/caoviethoang/punchbook)** — Replace traditional customer management notebooks in seconds
