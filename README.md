@@ -15,7 +15,7 @@ Hà Nội, Việt Nam · [hoangcv17@gmail.com](mailto:hoangcv17@gmail.com) · [L
 - **Fieldguide** - AI-powered Audit Platform *(Aug 2025 - present, remote)*
 - **Mitsumitsu** - Real-time Platform Development *(Jun 2023 - present)*
 - **Red Plank Software** - Lab Management System *(May 2023 - Aug 2025)*
-- **SOUNDRAW** - Music generator *(Jan 2022 - Jun 2023)*
+- **SOUNDRAW** - Music Generator *(Jan 2022 - Jun 2023)*
 
 **Skills:** Ruby on Rails · React · TypeScript · Vue.js · PostgreSQL · GraphQL · AWS · Docker
 
